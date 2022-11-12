@@ -1,5 +1,6 @@
 # Interpreter_CS280
 This repository is for the class in which I created a lexical analyzer, parser, and a basic interpreter for a small made up programming language.
+
 Below, I included some examples of how the interpreter works, with the fake programming language and the output of executing the fake programming language script.
 
 # Example Executions
@@ -115,7 +116,7 @@ Below, I included some examples of how the interpreter works, with the fake prog
       (*Display the results*)
       WRITELN  ('The output results are ' , r, ' ', p, ' ', a);
     END
-## Output:
+### Output:
 ![Output5](https://user-images.githubusercontent.com/89932319/201485789-a414ee40-9aed-4cc3-a922-fd122f14cf20.png)
 
 ## Example 6: Clean Program
@@ -135,6 +136,6 @@ Below, I included some examples of how the interpreter works, with the fake prog
       (*Display the results*)
       WRITELN  ('The output results are ' , (i / r), ', ', j);
     END
-## Output:
+### Output:
 ![Output6](https://user-images.githubusercontent.com/89932319/201485919-76fa4246-831e-4282-bfb5-3f976c92dfd9.png)
 
